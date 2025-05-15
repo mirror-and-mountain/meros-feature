@@ -4,7 +4,7 @@ namespace App\Features;
 
 use MM\Meros\Contracts\Feature;
 
-class NewFeature extends Feature
+class {{NewFeature}} extends Feature
 {
     protected function configure(): void
     {
